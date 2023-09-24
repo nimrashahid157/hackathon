@@ -1,0 +1,197 @@
+
+
+.navbar {
+background-color: WHITE;
+padding: 0px;
+height: 80px;
+position: fixed;
+width: 100%;
+}
+
+.navbar ul {
+list-style: none;
+float: right;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+.navbar li {
+padding: 30px 30px;
+cursor: pointer;
+}
+
+
+.navbar .business {
+font-weight: bold;
+
+}
+
+.svg-logo {
+margin-top: -15px;
+margin-left: 20px;
+}
+
+.btn-primary {
+    margin-right: 20px;
+    background-color: white;
+color: #1DBF73;
+border-color: #1DBF73;
+
+}
+
+.carousel-fade {
+height: 600px;
+width: 100%;
+z-index: -1;
+}
+
+.header-title {
+color: black;
+font-weight: bolder;
+font-size: 50px;
+
+}
+
+
+.max-width-container {
+padding-left: 20px;
+margin-top: -350px;
+
+}
+
+
+.search-bar {
+width: 45%;
+height: 50px;
+
+
+}
+
+.search-icon {
+height: 50px;
+width: 50px;
+
+}
+
+
+.search-icon :hover {
+background-color: #1DBF73;
+
+}
+
+.popular {
+    display: flex;
+justify-content: center;
+align-items: center;
+color: black;
+
+}
+
+
+.popular ul {
+display: flex;
+justify-content: center;
+align-items: center;
+margin-right: 800px;
+
+
+
+}
+
+.popular a {
+text-decoration: none;
+color: black;
+
+}
+
+.popular li {
+    list-style: none;
+    padding: 3px 8px;
+font-weight: 700;
+margin-top: 18px;
+}
+
+
+
+.meta ul{
+
+padding: 430px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+.meta li {
+
+   padding: 20px 40px;
+  list-style: none;
+}
+
+.popular-services {
+margin-top: -400px;
+color: #404145;
+}
+
+
+.images-fiverr {
+    display: flex;
+ }
+ 
+ .first {
+ width: 200px;
+ height: 300px;
+ margin-left: 110px;
+ object-fit: contain;
+ }
+ 
+ .second {
+    width: 200px;
+    height: 300px;
+    margin-left: 110px;
+    object-fit: contain;
+ }
+ 
+ .third {
+    width: 200px;
+    height: 300px;
+    margin-left: 110px;
+    object-fit: contain;
+ }
+ 
+ .fourth {
+    width: 200px;
+    height: 300px;
+    margin-left: 110px;
+    object-fit: contain;
+ 
+ }
+
+ 
+ 
+.paragraph {
+background-color: rgb(222, 248, 248);
+display: flex;
+align-items: safe;
+}
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
